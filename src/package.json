@@ -62,7 +62,7 @@
     "@angular-devkit/architect": "~0.2202.1",
     "@angular-devkit/core": "~22.2.1",
     "@angular-devkit/schematics": "~22.2.1",
-    "@types/node": "^24.0.0",
+    "@types/node": "^26.6.3",
     "copyfiles": "^2.4.1",
     "json-schema-to-typescript": "^16.0.0",
     "rimraf": "^6.1.3",
