@@ -127,7 +127,7 @@ describe('engine', () => {
       // The protocol (SSH vs HTTPS) depends on developer's git config.
       // Our testing philosophy allows .toContain() for substrings in long/variable messages.
       // We only care that the correct repo path is discovered.
-      expect(finalOptions.repo).toContain('angular-schule/angular-cli-ghpages');
+      expect(finalOptions.repo).toContain('borisonekenobi/angular-cli-ghpages');
     });
 
     describe('remote', () => {
